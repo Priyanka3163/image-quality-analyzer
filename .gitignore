@@ -16,3 +16,4 @@ backend/analysis.db
 frontend/.env
 frontend/src/user/data
 frontend/src/user/components/dummy
+frontend/src/customer
