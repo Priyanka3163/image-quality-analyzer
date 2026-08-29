@@ -78,7 +78,7 @@ The current classifier supports seven image-quality categories:
                          │ Sharpness            │
                          │ Edge Density         │
                          │ Noise                │
-                         │ Saturation            │
+                         │ Saturation           │
                          │ Texture              │
                          │ Entropy              │
                          │ Regional Statistics  │
