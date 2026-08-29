@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python-headless
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
+kagglehub
+sqlalchemy
