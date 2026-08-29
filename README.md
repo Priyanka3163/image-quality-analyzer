@@ -72,7 +72,7 @@ The project uses a **classical machine-learning approach with engineered compute
 
 ```text
                          ┌─────────────────────────┐
-                         │       React Frontend     │
+                         │       React Frontend    │
                          │                         │
                          │  Image Upload           │
                          │  Image Preview          │
@@ -84,7 +84,7 @@ The project uses a **classical machine-learning approach with engineered compute
                                       │
                                       ▼
                          ┌─────────────────────────┐
-                         │       FastAPI Backend    │
+                         │       FastAPI Backend   │
                          │                         │
                          │  File Validation        │
                          │  Image Decoding         │
@@ -107,14 +107,14 @@ The project uses a **classical machine-learning approach with engineered compute
                                       │
                                       ▼
                          ┌─────────────────────────┐
-                         │   Random Forest Model    │
+                         │   Random Forest Model   │
                          │                         │
                          │ quality_model.joblib    │
                          └────────────┬────────────┘
                                       │
                                       ▼
                          ┌─────────────────────────┐
-                         │    Quality Assessment    │
+                         │    Quality Assessment   │
                          │                         │
                          │  Predicted Class        │
                          │  Confidence             │
@@ -124,7 +124,7 @@ The project uses a **classical machine-learning approach with engineered compute
                                       │
                                       ▼
                          ┌─────────────────────────┐
-                         │      SQLite Database     │
+                         │      SQLite Database    │
                          │                         │
                          │    Analysis History     │
                          └─────────────────────────┘
