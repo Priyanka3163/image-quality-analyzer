@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import PlainNavbar from "./customer/components/PlainNavbar";
-import HomePage from "./customer/pages/HomePage";
-import HistoryPage from "./customer/pages/HistoryPage";
+import PlainNavbar from "./user/components/PlainNavbar";
+import HomePage from "./user/pages/HomePage";
+import HistoryPage from "./user/pages/HistoryPage";
 
 import "./App.css";
 
