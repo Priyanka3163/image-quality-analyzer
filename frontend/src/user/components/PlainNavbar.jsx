@@ -5,7 +5,6 @@ const PlainNavbar = () => {
         <div className="navbar bg-gray-900 border-b border-gray-800 shadow-sm px-6">
 
             {/* Logo / Title */}
-
             <div className="flex-1">
                 <Link
                     to="/"
@@ -16,11 +15,8 @@ const PlainNavbar = () => {
             </div>
 
             {/* Navigation */}
-
             <div className="flex-none">
-
                 <ul className="menu menu-horizontal px-1 gap-2">
-
                     <li>
                         <Link
                             to="/"
@@ -29,7 +25,6 @@ const PlainNavbar = () => {
                             Home
                         </Link>
                     </li>
-
                     <li>
                         <Link
                             to="/history"
@@ -38,11 +33,8 @@ const PlainNavbar = () => {
                             History
                         </Link>
                     </li>
-
                 </ul>
-
             </div>
-
         </div>
     );
 };
